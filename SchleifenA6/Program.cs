@@ -9,9 +9,9 @@ namespace SchleifenA5
             int x = Convert.ToInt32(Console.ReadLine());
 
 
-            for (int i = -x; i <= x; i += 2 )       
+            for (int i = -x; i <= x; i += 2)  
             {
-                Console.WriteLine( i );
+                Console.WriteLine(i);
             }
         }
     }

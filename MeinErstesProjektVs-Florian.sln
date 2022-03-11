@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchleifenA7", "SchleifenA7\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projektabreit 09.03.2022", "Projektabreit 09.02.2022\Projektabreit 09.03.2022.csproj", "{8BCE84DC-5DB6-4494-AC11-565C9C6068DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{3F21F993-492B-4F79-85A8-69C75B99817E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8BCE84DC-5DB6-4494-AC11-565C9C6068DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BCE84DC-5DB6-4494-AC11-565C9C6068DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BCE84DC-5DB6-4494-AC11-565C9C6068DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F21F993-492B-4F79-85A8-69C75B99817E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F21F993-492B-4F79-85A8-69C75B99817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F21F993-492B-4F79-85A8-69C75B99817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F21F993-492B-4F79-85A8-69C75B99817E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
